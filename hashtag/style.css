@@ -30,16 +30,8 @@ body {
 	text-shadow: 1px 1px #FFFFFF;
 }
 
-#photo-album{
-	color: #c0c0c0;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-}
-#picture{
-  text-align: center;
-  justify-content: center;
-  align-items: center;
+#main{
+  color: #c0c0c0;
 }
 
 .timeline {
