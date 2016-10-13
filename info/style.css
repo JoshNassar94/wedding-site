@@ -1,7 +1,7 @@
 body, html{ height: 100%;}
 body {
 	padding-top: 50px;
-	background-color: #000066;
+	background-color: #B1D5FC;
 }
 #home {
 	height: 100%;
@@ -13,7 +13,7 @@ body {
     background-size: cover;
 }
 .jumbotron{
-	background-color: #FF5722;
+	background-color: #B1D5FC;
 }
 .josh {
 	margin-left: auto;
@@ -31,15 +31,15 @@ body {
 }
 
 #wedding-venue{
-	color: #c0c0c0;
+	color: #000000;
 }
 
 #reception-venue{
-  color: #c0c0c0;
+  color: #000000;
 }
 
 #wedding-party{
-  color: #c0c0c0;
+  color: #000000;
 }
 
 .timeline {
@@ -54,7 +54,7 @@ body {
   position: absolute;
   content: " ";
   width: 3px;
-  background-color: #c0c0c0;
+  background-color: #000000;
   left: 50%;
   margin-left: -1.5px;
 }
@@ -87,7 +87,7 @@ body {
 .timeline > li > .timeline-panel {
   width: 46%;
   float: left;
-  border: 1px solid #c0c0c0;
+  border: 1px solid #000000;
   border-radius: 2px;
   padding: 20px;
   position: relative;
@@ -130,7 +130,7 @@ body {
   top: 16px;
   left: 50%;
   margin-left: -25px;
-  background-color: #c0c0c0;
+  background-color: #000000;
   z-index: 100;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;

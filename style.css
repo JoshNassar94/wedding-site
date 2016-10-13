@@ -1,19 +1,19 @@
 body, html{ height: 100%;}
 body {
 	padding-top: 50px;
-	background-color: #000066;
+	background-color: #B1D5FC;
 }
 #home {
 	height: 100%;
     text-align: center;
     justify-content: center;
     align-items: center;
-    background-color: #000066;
+    background-color: #B1D5FC;
     background-size: cover;
 	text-shadow: 0 0 3px white;
 }
 .jumbotron{
-	background-color: #000066;
+	background-color: #B1D5FC;
 }
 .josh {
 	margin-left: auto;
@@ -21,15 +21,15 @@ body {
 }
 .landing-title {
 	font-size: 80px;
-	color: #c0c0c0;
+	color: #000000;
 }
 .landing-text {
-	color: #c0c0c0;
+	color: #000000;
 	font-size: 20px;
 }
 
 #story-beginning{
-	color: #c0c0c0;
+	color: #000000;
 }
 
 .timeline {
@@ -44,7 +44,7 @@ body {
   position: absolute;
   content: " ";
   width: 3px;
-  background-color: #c0c0c0;
+  background-color: #000000;
   left: 50%;
   margin-left: -1.5px;
 }
@@ -77,7 +77,7 @@ body {
 .timeline > li > .timeline-panel {
   width: 46%;
   float: left;
-  border: 1px solid #c0c0c0;
+  border: 1px solid #000000;
   border-radius: 2px;
   padding: 20px;
   position: relative;
@@ -120,7 +120,7 @@ body {
   top: 16px;
   left: 50%;
   margin-left: -25px;
-  background-color: #c0c0c0;
+  background-color: #000000;
   z-index: 100;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
